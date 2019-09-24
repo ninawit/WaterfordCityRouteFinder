@@ -1,0 +1,55 @@
+Landmark,001,Waterford College of Further Education
+Landmark,012,Museum of Treasures
+Landmark,222,cti
+Landmark,015,The French Tower
+Landmark,016,New St Junction
+Landmark,014,Credit Union
+Landmark,009,The Apple Market
+Landmark,011,College St Junction
+Landmark,005,House of Waterford Crystal
+Landmark,007,Keizer Roundabout
+Landmark,010,Johns St Junction
+Landmark,013,Greyfriar's Junction
+Landmark,006,Gladstone Roundabout
+Landmark,003,Reginald's Tower
+Landmark,111,wit
+Landmark,002,Waterford Institute of Technology
+Landmark,004,Clock Tower
+Road,R016,The French Tower,New St Junction, 1,Brown's Lane
+Road,R012,Credit Union,Museum of Treasures, 1,Colbeck Street
+Road,R011,Museum of Treasures,Keizer Roundabout, 3,Henrietta Street
+Road,R014,The Apple Market,Johns St Junction, 1,Johns Street
+Road,R016,New St Junction,The French Tower, 1,Brown's Lane
+Road,R005,College St Junction,Johns St Junction, 4,Manor Street
+Road,R011,Keizer Roundabout,Museum of Treasures, 3,Henrietta Street
+Road,R009,Greyfriar's Junction,Reginald's Tower, 2,Bailey's New Street
+Road,R010,Greyfriar's Junction,Museum of Treasures, 1,Cathedral Square
+Road,R006,College St Junction,Waterford Institute of Technology, 2,College Street
+Road,R004,Clock Tower,Keizer Roundabout, 3,Meagher Quay
+Road,R003,Waterford College of Further Education,House of Waterford Crystal, 4,Parnell Street
+Road,R014,Johns St Junction,The Apple Market, 1,Johns Street
+Road,R444,cti,Museum of Treasures, 15,thomas st
+Road,R015,New St Junction,The Apple Market, 3,New Street
+Road,R33,cti,wit, 10,cork rd
+Road,R004,Keizer Roundabout,Clock Tower, 3,Meagher Quay
+Road,R008,Waterford College of Further Education,Johns St Junction, 2,Parnell Street
+Road,R002,Keizer Roundabout,Reginald's Tower, 4,Parade Quay
+Road,R013,Credit Union,House of Waterford Crystal, 1,Parnell Street
+Road,R009,Reginald's Tower,Greyfriar's Junction, 2,Bailey's New Street
+Road,R444,Museum of Treasures,cti, 15,thomas st
+Road,R007,House of Waterford Crystal,Reginald's Tower, 2,The Mall
+Road,R015,The Apple Market,New St Junction, 3,New Street
+Road,R007,Reginald's Tower,House of Waterford Crystal, 2,The Mall
+Road,R013,House of Waterford Crystal,Credit Union, 1,Parnell Street
+Road,R006,Waterford Institute of Technology,College St Junction, 2,College Street
+Road,R002,Reginald's Tower,Keizer Roundabout, 4,Parade Quay
+Road,R005,Johns St Junction,College St Junction, 4,Manor Street
+Road,R008,Johns St Junction,Waterford College of Further Education, 2,Parnell Street
+Road,R010,Museum of Treasures,Greyfriar's Junction, 1,Cathedral Square
+Road,R003,House of Waterford Crystal,Waterford College of Further Education, 4,Parnell Street
+Road,R017,New St Junction,Waterford Institute of Technology, 8,Barrack Street
+Road,R012,Museum of Treasures,Credit Union, 1,Colbeck Street
+Road,R001,Keizer Roundabout,Gladstone Roundabout, 4,Meagher Quay
+Road,R017,Waterford Institute of Technology,New St Junction, 8,Barrack Street
+Road,R33,wit,cti, 10,cork rd
+Road,R001,Gladstone Roundabout,Keizer Roundabout, 4,Meagher Quay
